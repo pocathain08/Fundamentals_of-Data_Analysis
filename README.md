@@ -13,5 +13,7 @@
 
 -Finally, I will focus on Ireland and focus on it as a case study.
 
-- 
+- All of my comments will be made under the plots that are displayed. 
+
+- I have kept some of the coding that I couldn't figure out for a later date.
 
